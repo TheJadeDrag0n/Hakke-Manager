@@ -1,0 +1,25 @@
+
+<svg
+   viewBox="0 0 499 96">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M428 26H460H499V39H460V55H496V68H460V84H499V96H428V26Z" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M321 26H353V62V96H321V26ZM387 96L353 62L353 61.8198L388.82 26H421L387 62L421 96H387Z" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M217 26H249V62V96H217V26ZM283 96L249 62L249 61.8198L284.82 26H317L283 62L317 96H283Z"/>
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M138.5 19C143.747 19 148 14.7467 148 9.5C148 4.2533 143.747 0 138.5 0C133.253 0 129 4.2533 129 9.5C129 14.7467 133.253 19 138.5 19ZM183.204 96L177.018 84H134.106L127.92 96H99.9124L136 26H175L211.083 96H183.204ZM156.914 45L170.317 71H140.808L154.212 45H156.914ZM182 9.5C182 14.7467 177.747 19 172.5 19C167.253 19 163 14.7467 163 9.5C163 4.2533 167.253 0 172.5 0C177.747 0 182 4.2533 182 9.5Z"/>
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M32 26H0V96H32V71H64V96H96V26H64V52H32V26Z"/>
+
+</svg>
